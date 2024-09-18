@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glinctor.github.io/sitemap.html.gz
+Sitemap: https://glinctor.github.io/app/sitemap.html.gz
+Sitemap: https://glinctor.github.io/assets/sitemap.html.gz
+Sitemap: https://glinctor.github.io/css/sitemap.html.gz
+Sitemap: https://glinctor.github.io/includes/sitemap.html.gz
+Sitemap: https://glinctor.github.io/item/sitemap.html.gz
+Sitemap: https://glinctor.github.io/src/sitemap.html.gz
